@@ -37,3 +37,8 @@ div h3 {
 div.content p {
   text-align: justify;
 }
+
+a:visited,:link{
+  color: rgb(10, 2, 254);
+  text-decoration: none;
+}
